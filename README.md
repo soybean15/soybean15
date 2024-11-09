@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/soybean15/soybean15/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/soybean15/soybean15/output/snake.svg"](https://profile-readme-generator.com/assets/snake.svg) alt="Snake animation" />
 
 ###
