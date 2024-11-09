@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRoYjNnMmN4bWJuZzc1cm9nYnZ5NHpseXVlaGZ4cXA5MmR3eXNybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uwZG5UsqdytSVvdOFt/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -41,6 +37,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRoYjNnMmN4bWJuZzc1cm9nYnZ5NHpseXVlaGZ4cXA5MmR3eXNybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uwZG5UsqdytSVvdOFt/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/soybean15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -49,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/soybean15/soybean15/output/snake.svg"](https://profile-readme-generator.com/assets/snake.svg) alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
